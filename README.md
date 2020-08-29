@@ -1,4 +1,4 @@
-#sql-challenge
+sql-challenge
 
 ##Employee Database
 
